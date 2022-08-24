@@ -1,196 +1,196 @@
-{"animals":[
+{
+  "animals": [
     {
-        "Name": "Yangtze Finless Porpoise",
-        "Scientific Name": "Neophocaena Asiaeorientalis ssp. Asia Orientalis",
-        "Status": "Critically Endangered",
-        "Habitats": "Lakes & Rivers",
-        "Population": "1000 - 1800",
-        "id":"0"
-        },
-        {
-        "Name": "Amur Leopard",
-        "Scientific Name": "Panthera Pardus Orientalis",
-        "Status": "Critically Endangered",
-        "Habitats": "Temperate, Broadleaf, and Mixed Forests",
-        "Population": "84",
-        "id":"1"
-        },
-        {
-        "Name": "Vaquita",
-         "Scientific Name": "Phocoena sinus",
-        "Status": "Critically Endangered",
-        "Habitats": "Marine (only in the northern Gulf of California)",
-        "Population": "10",
-        "id":"2"
-        },
-        {
-        "Name": "Sumatran Rhino",
-         "Scientific Name": "Rhinoceros sondaicus" ,
-        "Status": "Critically Endangered",
-        "Habitats": "Tropical Forests",
-        "Population": "60",
-        "id":"3"
-        },
-        {
-        "Name": "Saola",
-         "Scientific Name": "Pseudoryx nghetinhensis",
-        "Status": "Critically Endangered",
-        "Habitats": "Evergreen forests with little or no dry season",
-        "Population": "Unknown",
-        "id":"4"
-        },
-        {
-        "Name": "Cross River Gorilla",
-         "Scientific Name": "Gorilla gorilla diehli",
-        "Status": "Critically Endangered",
-        "Habitats": "Unknown",
-        "Population": "200 - 300",
-        "id":"5"
-        },
-        {
-        "Name": "Black Rhino",
-        "Scientific Name": "Diceros bicornis",
-        "Status": "Critically Endangered ",
-        "Habitats": "Semi-Desert Savannah, Woodlands, Forests, Wetlands",
-        "Population": "Unknown",
-        "id":"6"
-        },
-        {
-        "Name": "Hawksbill Turtle",
-        "Scientific Name":"Eretmochelys imbricata",
-        "Status": "Critically Endangered ",
-        "Habitats": "Oceans",
-        "Population": "Unknown",
-        "id":"7"
-        },
-        {
-            "Name": "Hector’s Dolphin",
-            "Scientific Name": "Cephalorhynchus hectori",
-            "Status": "Endangered",
-            "Habitats": "Oceans",
-            "Population": "7000",
-            "id":"8"
-            },
-            {
-            "Name": "Bornean Elephant",
-            "Scientific Name": "Elephas maximus borneensis",
-            "Status": "Endangered",
-            "Habitats": "Forests",
-            "Population": "1500",
-            "id":"9"
-            },
-            {
-            "Name": "Monarch Butterfly",
-            "Scientific Name": "Danaus plexippus",
-            "Status": "Endangered", 
-            "Habitats": "Forests, Mountains",
-            "Population": "Unknown",
-            "id":"10"
-            },
-            {
-            "Name": "Chimpanzee",
-            "Scientific Name": "Pan troglodytes",
-            "Status": "Endangered",
-            "Habitats": "Forests (moist and dry forests), Savannah Woodlands, and Grassland-Forest mosaics",
-            "Population": "172,700 - 299,700",
-            "id":"11"
-            },
-            {
-            "Name": "Green Turtle",
-            "Scientific Name": "Chelonia mydas",
-            "Status": "Endangered",
-            "Habitats": "Oceans",
-            "Population": "Unknown",
-            "id":"12"
-            },
-            {
-            "Name": "Irrawaddy Dolphin",
-            "Scientific Name": "Orcaella brevirostris",
-            "Status": "Endangered",
-            "Habitats": "Lakes, Rivers, Estuaries, and Coasts",
-            "Population": "Unknown",
-            "id":"13"
-            },
-            {
-            "Name": "Fin Whale",
-            "Scientific Name": "Balaenoptera physalus",
-            "Status": "Endangered",
-            "Habitats": "Oceans",
-            "Population": "50,000 - 90,000",
-            "id":"14"
-            },
-            {
-            "Name": "Red Panda",
-            "Scientific Name": "Ailurus fulgens",
-            "Status": "Endangered",
-            "Habitats": "Temperate forests",
-            "Population": "10,000",
-            "id":"15"
-            },
-            {
-                "Name": "Albacore Tuna",
-                "Scientific Name": "Thunnus alalunga",
-                "Status": "Near Threatened",
-                "Habitats": "Ocean",
-                "Population": "Unknown",
-                "id":"16"
-                },
-                {
-                "Name": "Beluga",
-                "Scientific Name": "Delphinapterus Leucas",
-                "Status": "Near Threatened",
-                "Habitats": "Ocean",
-                "Population": "150,000",
-                "id":"17"
-                },
-                {
-                "Name": "Greater Sage-Grouse",
-                "Scientific Name": "Centrocercus urophasianus",
-                "Status": "Near Threatened",
-                "Habitats": "Grasslands",
-                "Population": "100,000 - 500,000",
-                "id":"18"
-                },
-                {
-                "Name": "Jaguar",
-                "Scientific Name": "Panthera onca",
-                "Status": "Near Threatened",
-                "Habitats": "Forests, Grasslands",
-                "Population": "Unknown",
-                "id":"19"
-                },
-                {
-                "Name": "Mountain Plover",
-                "Scientific Name": "Charadrius montanus", 
-                "Status": "Near Threatened",
-                "Habitats": "Grasslands",
-                "Population": "15,000-20,000",
-                "id":"20"
-                },
-                {
-                "Name": "Plains Bison",
-                "Scientific Name": "Bison bison bison",
-                "Status": "Near Threatened",
-                "Habitats": "Grasslands",
-                "Population": "20,504",
-                "id":"21"
-                },
-                {
-                "Name": "White Rhino",
-                "Scientific Name": "Ceratotherium simum",
-                "Status": "Near Threatened",
-                "Habitats": "Long and short grass savanna areas in grasslands",
-                "Population": "18,000",
-                "id":"22"
-                },
-                {
-                "Name": "Yellowfin Tuna",
-                "Scientific Name": "Thunnus albacares",
-                "Status": "Near Threatened",
-                "Habitats": "Oceans",
-                "Population": "Unknown",
-                "id":"23"
-                }
-
-
-]}
+      "name": "Yangtze Finless Porpoise",
+      "scientific": "Neophocaena Asiaeorientalis ssp. Asia Orientalis",
+      "status": "Critically Endangered",
+      "habitats": "Lakes & Rivers",
+      "population": "1000 - 1800",
+      "id": "0"
+    },
+    {
+      "name": "Amur Leopard",
+      "scientific": "Panthera Pardus Orientalis",
+      "status": "Critically Endangered",
+      "habitats": "Temperate, Broadleaf, and Mixed Forests",
+      "population": "84",
+      "id": "1"
+    },
+    {
+      "name": "Vaquita",
+      "scientific": "Phocoena sinus",
+      "status": "Critically Endangered",
+      "habitats": "Marine (only in the northern Gulf of California)",
+      "population": "10",
+      "id": "2"
+    },
+    {
+      "name": "Sumatran Rhino",
+      "scientific": "Rhinoceros sondaicus",
+      "status": "Critically Endangered",
+      "habitats": "Tropical Forests",
+      "population": "60",
+      "id": "3"
+    },
+    {
+      "name": "Saola",
+      "scientific": "Pseudoryx nghetinhensis",
+      "status": "Critically Endangered",
+      "habitats": "Evergreen forests with little or no dry season",
+      "population": "Unknown",
+      "id": "4"
+    },
+    {
+      "name": "Cross River Gorilla",
+      "scientific": "Gorilla gorilla diehli",
+      "status": "Critically Endangered",
+      "habitats": "Unknown",
+      "population": "200 - 300",
+      "id": "5"
+    },
+    {
+      "name": "Black Rhino",
+      "scientific": "Diceros bicornis",
+      "status": "Critically Endangered ",
+      "habitats": "Semi-Desert Savannah, Woodlands, Forests, Wetlands",
+      "population": "Unknown",
+      "id": "6"
+    },
+    {
+      "name": "Hawksbill Turtle",
+      "scientific": "Eretmochelys imbricata",
+      "status": "Critically Endangered ",
+      "habitats": "Oceans",
+      "population": "Unknown",
+      "id": "7"
+    },
+    {
+      "name": "Hector’s Dolphin",
+      "scientific": "Cephalorhynchus hectori",
+      "status": "Endangered",
+      "habitats": "Oceans",
+      "population": "7000",
+      "id": "8"
+    },
+    {
+      "name": "Bornean Elephant",
+      "scientific": "Elephas maximus borneensis",
+      "status": "Endangered",
+      "habitats": "Forests",
+      "population": "1500",
+      "id": "9"
+    },
+    {
+      "name": "Monarch Butterfly",
+      "scientific": "Danaus plexippus",
+      "status": "Endangered",
+      "habitats": "Forests, Mountains",
+      "population": "Unknown",
+      "id": "10"
+    },
+    {
+      "name": "Chimpanzee",
+      "scientific": "Pan troglodytes",
+      "status": "Endangered",
+      "habitats": "Forests (moist and dry forests), Savannah Woodlands, and Grassland-Forest mosaics",
+      "population": "172,700 - 299,700",
+      "id": "11"
+    },
+    {
+      "name": "Green Turtle",
+      "scientific": "Chelonia mydas",
+      "status": "Endangered",
+      "habitats": "Oceans",
+      "population": "Unknown",
+      "id": "12"
+    },
+    {
+      "name": "Irrawaddy Dolphin",
+      "scientific": "Orcaella brevirostris",
+      "status": "Endangered",
+      "habitats": "Lakes, Rivers, Estuaries, and Coasts",
+      "population": "Unknown",
+      "id": "13"
+    },
+    {
+      "name": "Fin Whale",
+      "scientific": "Balaenoptera physalus",
+      "status": "Endangered",
+      "habitats": "Oceans",
+      "population": "50,000 - 90,000",
+      "id": "14"
+    },
+    {
+      "name": "Red Panda",
+      "scientific": "Ailurus fulgens",
+      "status": "Endangered",
+      "habitats": "Temperate forests",
+      "population": "10,000",
+      "id": "15"
+    },
+    {
+      "name": "Albacore Tuna",
+      "scientific": "Thunnus alalunga",
+      "status": "Near Threatened",
+      "habitats": "Ocean",
+      "population": "Unknown",
+      "id": "16"
+    },
+    {
+      "name": "Beluga",
+      "scientific": "Delphinapterus Leucas",
+      "status": "Near Threatened",
+      "habitats": "Ocean",
+      "population": "150,000",
+      "id": "17"
+    },
+    {
+      "name": "Greater Sage-Grouse",
+      "scientific": "Centrocercus urophasianus",
+      "status": "Near Threatened",
+      "habitats": "Grasslands",
+      "population": "100,000 - 500,000",
+      "id": "18"
+    },
+    {
+      "name": "Jaguar",
+      "scientific": "Panthera onca",
+      "status": "Near Threatened",
+      "habitats": "Forests, Grasslands",
+      "population": "Unknown",
+      "id": "19"
+    },
+    {
+      "name": "Mountain Plover",
+      "scientific": "Charadrius montanus",
+      "status": "Near Threatened",
+      "habitats": "Grasslands",
+      "population": "15,000-20,000",
+      "id": "20"
+    },
+    {
+      "name": "Plains Bison",
+      "scientific": "Bison bison bison",
+      "status": "Near Threatened",
+      "habitats": "Grasslands",
+      "population": "20,504",
+      "id": "21"
+    },
+    {
+      "name": "White Rhino",
+      "scientific": "Ceratotherium simum",
+      "status": "Near Threatened",
+      "habitats": "Long and short grass savanna areas in grasslands",
+      "population": "18,000",
+      "id": "22"
+    },
+    {
+      "name": "Yellowfin Tuna",
+      "scientific": "Thunnus albacares",
+      "status": "Near Threatened",
+      "habitats": "Oceans",
+      "population": "Unknown",
+      "id": "23"
+    }
+  ]
+}
