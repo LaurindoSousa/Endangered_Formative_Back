@@ -14,7 +14,7 @@ const rawData = fs.readFileSync("./data.json");
 
 const data = JSON.parse(rawData);
  //console.log(data.animals);
-res.json(data.animals);
+ res.json(data.animals);
 });
 
 app.listen(3000, () => {
