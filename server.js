@@ -19,12 +19,12 @@ app.delete("/animals/:id", (req,res) => {
         return animals.id === req.params.id;
     });
     
-    data.animals.splice(matcIndex, 1);
+    data.animals.splice(matchIndex, 1);
     
     const newJson = JSON.stringify(data);
     fs.writeFileSync("./data.json", newJson);
     
-    res.send("deleted: " + req.params.id);
+    res.json(data.animals);
 });
 
 
