@@ -15,7 +15,7 @@ app.delete("/animals/:id", (req,res) => {
     
     const rawData = fs.readFileSync("./data.json");
     const data = JSON.parse(rawData);
-    const machIndex = data.animals.findIndex((animals) => {
+    const matchIndex = data.animals.findIndex((animals) => {
         return animals.id === req.params.id;
     });
     
