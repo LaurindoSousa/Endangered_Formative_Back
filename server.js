@@ -9,10 +9,7 @@ app.use (cors());
 app.use(express.json());
 
 app.get("/animals", (req, res) => {
-    const rawData = fs.readFileSync("./data.json");
-    const data = JSON.parse(rawData);
 
-    res.json(data.animals);
 });
 
 app.post("/animals", (req, res) => {
