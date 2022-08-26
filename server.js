@@ -18,7 +18,7 @@ const data = JSON.parse(rawData);
 });
 
 app.delete("/animals/:id", (req,res) => {
-    console.log(req.params.id);
+    // console.log(req.params.id);
     
     const rawData = fs.readFileSync("./data.json");
     const data = JSON.parse(rawData);
