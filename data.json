@@ -144,7 +144,78 @@
       "Population": "10,000",
       "id": "15"
     },
-    
+    {
+        "Name": "Dugong",
+        "Scientific Name": "Dugong dugon",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Oceans",
+        "Population": "Unknown",
+        "id": "16"
+    },
+    {
+        "Name": "Southern Rockhopper Penguin",
+        "Scientific Name": "Eudyptes chrysocome",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Oceans and coasts",
+        "Population": "Unknown",
+        "id": "17"
+    },
+    {
+        "Name": "Giant Tortoise",
+        "Scientific Name": "Unknown",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Islands",
+        "Population": "Unknown",
+        "id": "18"
+    },
+    {
+        "Name": "Polar Bear",
+        "Scientific Name": "Ursus maritimus",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Arctic Ocean, sea ice, and adjacent coastal areas",
+        "Population": "22,000 - 31,000",
+        "id": "19"
+    },
+    {
+        "Name": "Great White Shark",
+        "Scientific Name": "Carcharodon carcharias",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Oceans",
+        "Population": "Unknown",
+        "id": "20"
+    },
+    {
+        "Name": "Snow Leopard",
+        "Scientific Name": "Panthera uncia",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "High Mountains",
+        "Population": "4,000 - 6,500",
+        "id": "21"
+    },
+    {
+        "Name": "Black Spider Monkey",
+        "Scientific Name": "Ateles paniscus",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Tropical and subtropical moist broadleaf forests",
+        "Population": "Unknown",
+        "id": "22"
+    },
+    {
+        "Name": "Giant Panda",
+        "Scientific Name": "Ailuropoda melanoleuca",
+        "Status": "Vulnerable",
+        "statusId": "2",
+        "Habitats": "Temperate broadleaf and mixed forests of southwest China",
+        "Population": "1,864 in the wild",
+        "id": "23"
+    },
     {
       "Name": "Albacore Tuna",
       "Scientific Name": "Thunnus alalunga",
@@ -152,7 +223,7 @@
       "statusId": "3",
       "Habitats": "Ocean",
       "Population": "Unknown",
-      "id": "16"
+      "id": "24"
     },
     {
       "Name": "Beluga",
@@ -161,7 +232,7 @@
       "statusId": "3",
       "Habitats": "Ocean",
       "Population": "150,000",
-      "id": "17"
+      "id": "25"
     },
     {
       "Name": "Greater Sage-Grouse",
@@ -170,7 +241,7 @@
       "statusId": "3",
       "Habitats": "Grasslands",
       "Population": "100,000 - 500,000",
-      "id": "18"
+      "id": "26"
     },
     {
       "Name": "Jaguar",
@@ -179,7 +250,7 @@
       "statusId": "3",
       "Habitats": "Forests, Grasslands",
       "Population": "Unknown",
-      "id": "19"
+      "id": "27"
     },
     {
       "Name": "Mountain Plover",
@@ -188,7 +259,7 @@
       "statusId": "3",
       "Habitats": "Grasslands",
       "Population": "15,000-20,000",
-      "id": "20"
+      "id": "28"
     },
     {
       "Name": "Plains Bison",
@@ -197,7 +268,7 @@
       "statusId": "3",
       "Habitats": "Grasslands",
       "Population": "20,504",
-      "id": "21"
+      "id": "29"
     },
     {
       "Name": "White Rhino",
@@ -206,7 +277,7 @@
       "statusId": "3",
       "Habitats": "Long and short grass savanna areas in grasslands",
       "Population": "18,000",
-      "id": "22"
+      "id": "30"
     },
     {
       "Name": "Yellowfin Tuna",
@@ -215,7 +286,7 @@
       "statusId": "3",
       "Habitats": "Oceans",
       "Population": "Unknown",
-      "id": "23"
+      "id": "31"
     }
   ]
 }
