@@ -1,12 +1,12 @@
 {
     "animals": [
         {
-            "name": "Yangtze Finless Porpoise",
-            "scientific": "Neophocaena Asiaeorientalis",
+            "name": "Sunda Tiger",
+            "scientific": "Panthera Tigris Sondaica",
             "status": "Critically Endangered",
             "statusId": "0",
-            "habitats": "Lakes and Rivers",
-            "population": "1,000 - 1,800",
+            "habitats": "Broadleaf, Freshwater and Peat Swamps",
+            "population": "400",
             "id": "0"
         },
         {
