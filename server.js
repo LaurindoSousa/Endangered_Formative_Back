@@ -42,7 +42,7 @@ app.post("/animals", (req, res) => {
     const newJson = JSON.stringify(data);
     fs.writeFileSync("./data.json", newJson);
 
-    res.send(req.body);
+    res.send(newJson.animals);
 })
 
 app.listen(3000, () => {
