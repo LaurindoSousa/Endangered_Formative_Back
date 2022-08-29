@@ -30,7 +30,7 @@ app.delete("/animals/:id", (req, res) => {
     const newJson = JSON.stringify(newData);
     fs.writeFileSync("./data.json", newJson);
 
-    res.json(data.animals);
+    res.send(newJson.animals);
 });
 
 app.post("/animals", (req, res) => {
