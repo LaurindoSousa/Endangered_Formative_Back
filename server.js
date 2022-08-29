@@ -18,18 +18,15 @@ const data = JSON.parse(rawData);
 
     
 app.delete("/animals/:id", (req, res) => {
-    // console.log(req.params.id);
+    console.log(req.params.id);
 
     const rawData = fs.readFileSync("./data.json");
     const data = JSON.parse(rawData);
-    const newData = data.animals.filter((animal) => {
+    data.animals = data.animals.filter((animal) => {
         return animal.id != req.params.id;
     });
-    console.log(newData);
-
-    const newJson = JSON.stringify(newData);
+    const newJson = JSON.stringify(data);
     fs.writeFileSync("./data.json", newJson);
-
     res.json(data.animals);
 });
 
